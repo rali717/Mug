@@ -14,5 +14,6 @@ Technical stuff for printing on mugs.
 
 
 There's an issue.
-I found out Inkscape generated output is just with 90dpi.
+I found out Inkscape's generated output is just with 90dpi.
 So for higher print quality the dimention in inkscape has to be adapt.
+
